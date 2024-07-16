@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name" : "HOME",
+        "url" : "/",
+        "icon" : "home"
+    },
+    {
+        "id" : 2,
+        "name" : "PAGE",
+        "url" : "/page",
+        "icon" : "home"
+    },
+    {
+        "id" : 3,
+        "name" : "SHOP",
+        "url" : "/shop",
+        "icon" : "home"
+    },
+    {
+        "id" : 4,
+        "name" : "PORTFOLIO",
+        "url" : "/blog",
+        "icon" : "home"
+    },
+    {
+        "id" : 5,
+        "name" : "CONTACT",
+        "url" : "/contact",
+        "icon" : "home"
+    }
+]

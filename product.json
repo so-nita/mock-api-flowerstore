@@ -1,0 +1,114 @@
+[
+    {
+        "id" : 1,
+        "name" : "PREMIUM JOYFUL",
+        "image" : "https://tunatheme.com/tf/html/fiama-preview/fiama/product-details.html",
+        "price" : 16.00,
+        "categoryId" : 2,
+        "discount" : {
+            "percentage" : 20,
+            "amount" : 0
+        },
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos repellendus repudiandae incidunt quidem pariatur expedita, quo quis modi tempore non.",
+        "color": [
+            "#E55472", "#9AC45C", "#6D5CC4", "#FFFFFF", "#FF0000", "#FFFF00"
+        ],
+        "isHot" : true
+    },
+    {
+        "id" : 1,
+        "name" : "",
+        "image" : "",
+        "price" : 0,
+        "categoryId" : 2,
+        "discount" : {
+            "percentage" : 20,
+            "amount" : 0
+        },
+        "description" : "",
+        "color": [
+            "#E55472", "#9AC45C", "#6D5CC4", "#FFFFFF", "#FF0000", "#FFFF00"
+        ],
+        "isHot" : true
+    },
+    {
+        "id" : 1,
+        "name" : "",
+        "image" : "",
+        "price" : 0,
+        "categoryId" : 2,
+        "discount" : {
+            "percentage" : 20,
+            "amount" : 0
+        },
+        "description" : "",
+        "color": [
+            "#E55472", "#9AC45C", "#6D5CC4", "#FFFFFF", "#FF0000", "#FFFF00"
+        ],
+        "isHot" : true
+    },
+    {
+        "id" : 1,
+        "name" : "",
+        "image" : "",
+        "price" : 0,
+        "categoryId" : 2,
+        "discount" : {
+            "percentage" : 20,
+            "amount" : 0
+        },
+        "description" : "",
+        "color": [
+            "#E55472", "#9AC45C", "#6D5CC4", "#FFFFFF", "#FF0000", "#FFFF00"
+        ],
+        "isHot" : true
+    },
+    {
+        "id" : 1,
+        "name" : "",
+        "image" : "",
+        "price" : 0,
+        "categoryId" : 2,
+        "discount" : {
+            "percentage" : 20,
+            "amount" : 0
+        },
+        "description" : "",
+        "color": [
+            "#E55472", "#9AC45C", "#6D5CC4", "#FFFFFF", "#FF0000", "#FFFF00"
+        ],
+        "isHot" : true
+    },
+    {
+        "id" : 1,
+        "name" : "",
+        "image" : "",
+        "price" : 0,
+        "categoryId" : 2,
+        "discount" : {
+            "percentage" : 20,
+            "amount" : 0
+        },
+        "description" : "",
+        "color": [
+            "#E55472", "#9AC45C", "#6D5CC4", "#FFFFFF", "#FF0000", "#FFFF00"
+        ],
+        "isHot" : true
+    },
+    {
+        "id" : 1,
+        "name" : "",
+        "image" : "",
+        "price" : 0,
+        "categoryId" : 2,
+        "discount" : {
+            "percentage" : 20,
+            "amount" : 0
+        },
+        "description" : "",
+        "color": [
+            "#E55472", "#9AC45C", "#6D5CC4", "#FFFFFF", "#FF0000", "#FFFF00"
+        ],
+        "isHot" : true
+    }
+]
